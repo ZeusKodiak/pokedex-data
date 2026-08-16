@@ -1,22 +1,7 @@
 {
   "version": 1,
-  "made": [
-    {
-      "id": "085c845e-6458-466d-91e0-582d46fecc2b",
-      "dex": 9001,
-      "name": "Testio",
-      "slug": "testio",
-      "category": "",
-      "region": "",
-      "rarity": "",
-      "types": [
-        "normal"
-      ],
-      "picture": "",
-      "moves": [],
-      "evolvesFrom": null,
-      "edited": "2026-08-16T14:46:29.063Z"
-    }
-  ],
-  "deleted": []
+  "made": [],
+  "deleted": [
+    "085c845e-6458-466d-91e0-582d46fecc2b"
+  ]
 }
