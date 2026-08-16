@@ -77,10 +77,55 @@
           "pp": 23,
           "damageClass": "physical",
           "effect": "Crushes the target"
+        },
+        {
+          "name": "spirit-shackle",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 10,
+          "type": "ghost",
+          "damageClass": "physical",
+          "effect": "Traps the target."
+        },
+        {
+          "name": "Follow",
+          "type": "dragon",
+          "power": 89,
+          "accuracy": 25,
+          "pp": 78,
+          "damageClass": "special",
+          "effect": "Distracts the target"
+        },
+        {
+          "name": "earthquake",
+          "power": 100,
+          "accuracy": 100,
+          "pp": 10,
+          "type": "ground",
+          "damageClass": "physical",
+          "effect": "Inflicts regular damage and can hit Dig users."
+        },
+        {
+          "name": "brick-break",
+          "power": 75,
+          "accuracy": 100,
+          "pp": 15,
+          "type": "fighting",
+          "damageClass": "physical",
+          "effect": "Destroys Reflect and Light Screen."
+        },
+        {
+          "name": "gravity",
+          "power": null,
+          "accuracy": null,
+          "pp": 5,
+          "type": "psychic",
+          "damageClass": "status",
+          "effect": "Disables moves and immunities that involve flying or levitating for five turns."
         }
       ],
       "evolvesFrom": null,
-      "edited": "2026-08-16T15:14:10.798Z"
+      "edited": "2026-08-16T15:27:28.490Z"
     }
   ],
   "deleted": [
