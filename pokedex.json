@@ -1,6 +1,88 @@
 {
   "version": 1,
-  "made": [],
+  "made": [
+    {
+      "id": "f4b15127-8ec8-4d6b-8a67-588a2386e9b0",
+      "dex": 9001,
+      "name": "Spakere",
+      "slug": "spakere",
+      "category": "Spike Pokémon",
+      "region": "Paldea",
+      "rarity": "mythical",
+      "types": [
+        "poison",
+        "ghost"
+      ],
+      "picture": "data:image/webp;base64,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",
+      "moves": [
+        {
+          "name": "cosmic-power",
+          "power": null,
+          "accuracy": null,
+          "pp": 20,
+          "type": "psychic",
+          "damageClass": "status",
+          "effect": "Raises the user’s Defense and Special Defense by one stage."
+        },
+        {
+          "name": "bubble-beam",
+          "power": 65,
+          "accuracy": 100,
+          "pp": 20,
+          "type": "water",
+          "damageClass": "special",
+          "effect": "Has a chance to lower the target’s Speed by one stage."
+        },
+        {
+          "name": "double-shock",
+          "power": 120,
+          "accuracy": 100,
+          "pp": 5,
+          "type": "electric",
+          "damageClass": "physical",
+          "effect": ""
+        },
+        {
+          "name": "air-slash",
+          "power": 75,
+          "accuracy": 95,
+          "pp": 15,
+          "type": "flying",
+          "damageClass": "special",
+          "effect": "Has a chance to make the target flinch."
+        },
+        {
+          "name": "Radioactive",
+          "type": "poison",
+          "power": 1e+22,
+          "accuracy": 300,
+          "pp": 1,
+          "damageClass": "special",
+          "effect": "Blasts the target"
+        },
+        {
+          "name": "aura-sphere",
+          "power": 80,
+          "accuracy": null,
+          "pp": 20,
+          "type": "fighting",
+          "damageClass": "special",
+          "effect": "Never misses."
+        },
+        {
+          "name": "Metal",
+          "type": "steel",
+          "power": 80,
+          "accuracy": 23,
+          "pp": 23,
+          "damageClass": "physical",
+          "effect": "Crushes the target"
+        }
+      ],
+      "evolvesFrom": null,
+      "edited": "2026-08-16T15:14:10.798Z"
+    }
+  ],
   "deleted": [
     "085c845e-6458-466d-91e0-582d46fecc2b"
   ]
