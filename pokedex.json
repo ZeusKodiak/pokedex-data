@@ -54,8 +54,8 @@
         {
           "name": "Radioactive",
           "type": "poison",
-          "power": 1e+22,
-          "accuracy": 300,
+          "power": 300,
+          "accuracy": 100,
           "pp": 1,
           "damageClass": "special",
           "effect": "Blasts the target"
@@ -92,7 +92,7 @@
           "type": "dragon",
           "power": 89,
           "accuracy": 25,
-          "pp": 78,
+          "pp": 64,
           "damageClass": "special",
           "effect": "Distracts the target"
         },
