@@ -126,6 +126,132 @@
       ],
       "evolvesFrom": null,
       "edited": "2026-08-16T15:29:10.243Z"
+    },
+    {
+      "id": "83b1684b-f380-472f-b78d-cd3bd8627728",
+      "dex": 9002,
+      "name": "Kissfly",
+      "slug": "kissfly",
+      "category": "Fairy Pokémon",
+      "region": "Kanto",
+      "rarity": "",
+      "types": [
+        "fairy",
+        "flying"
+      ],
+      "picture": "data:image/webp;base64,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",
+      "moves": [
+        {
+          "name": "moonblast",
+          "power": 95,
+          "accuracy": 100,
+          "pp": 15,
+          "type": "fairy",
+          "damageClass": "special",
+          "effect": "Has a chance to lower the target’s Special Attack by one stage."
+        },
+        {
+          "name": "Sky strike",
+          "type": "flying",
+          "power": 123,
+          "accuracy": 80,
+          "pp": 64,
+          "damageClass": "physical",
+          "effect": "Slideshes, the target"
+        },
+        {
+          "name": "tailwind",
+          "power": null,
+          "accuracy": null,
+          "pp": 15,
+          "type": "flying",
+          "damageClass": "status",
+          "effect": "For three turns, friendly Pokémon have doubled Speed."
+        },
+        {
+          "name": "sweet-kiss",
+          "power": null,
+          "accuracy": 75,
+          "pp": 10,
+          "type": "fairy",
+          "damageClass": "status",
+          "effect": "Confuses the target."
+        },
+        {
+          "name": "hypnosis",
+          "power": null,
+          "accuracy": 60,
+          "pp": 20,
+          "type": "psychic",
+          "damageClass": "status",
+          "effect": "Puts the target to sleep."
+        },
+        {
+          "name": "all-out-pummeling--physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 1,
+          "type": "fighting",
+          "damageClass": "physical",
+          "effect": "Inflicts regular damage with no additional effect."
+        },
+        {
+          "name": "acid-armor",
+          "power": null,
+          "accuracy": null,
+          "pp": 20,
+          "type": "poison",
+          "damageClass": "status",
+          "effect": "Raises the user’s Defense by two stages."
+        },
+        {
+          "name": "blizzard",
+          "power": 110,
+          "accuracy": 70,
+          "pp": 5,
+          "type": "ice",
+          "damageClass": "special",
+          "effect": "Has a chance to freeze the target."
+        },
+        {
+          "name": "10-000-000-volt-thunderbolt",
+          "power": 195,
+          "accuracy": null,
+          "pp": 1,
+          "type": "electric",
+          "damageClass": "special",
+          "effect": "Inflicts regular damage with no additional effect."
+        },
+        {
+          "name": "leaf-tornado",
+          "power": 65,
+          "accuracy": 90,
+          "pp": 10,
+          "type": "grass",
+          "damageClass": "special",
+          "effect": "Has a chance to lower the target’s accuracy by one stage."
+        },
+        {
+          "name": "acupressure",
+          "power": null,
+          "accuracy": null,
+          "pp": 30,
+          "type": "normal",
+          "damageClass": "status",
+          "effect": "Raises one of a friendly Pokémon’s stats at random by two stages."
+        },
+        {
+          "name": "armor-cannon",
+          "power": 120,
+          "accuracy": 100,
+          "pp": 5,
+          "type": "fire",
+          "damageClass": "special",
+          "effect": ""
+        }
+      ],
+      "evolvesFrom": null,
+      "edited": "2026-08-17T07:34:18.928Z"
     }
   ],
   "deleted": [
