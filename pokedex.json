@@ -378,6 +378,23 @@
       ],
       "evolvesFrom": null,
       "edited": "2026-08-17T13:08:34.769Z"
+    },
+    {
+      "id": "2d13fccb-1b86-4919-b5ca-9a2122fcdaae",
+      "dex": 9004,
+      "name": "Wambam",
+      "slug": "wambam",
+      "category": "Slam Pokémon",
+      "region": "Paldea",
+      "rarity": "legendary",
+      "types": [
+        "rock",
+        "fighting"
+      ],
+      "picture": "",
+      "moves": [],
+      "evolvesFrom": null,
+      "edited": "2026-08-17T14:52:32.174Z"
     }
   ],
   "deleted": [
