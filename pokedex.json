@@ -392,9 +392,73 @@
         "fighting"
       ],
       "picture": "data:image/webp;base64,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",
-      "moves": [],
+      "moves": [
+        {
+          "name": "Rock run",
+          "type": "rock",
+          "power": null,
+          "accuracy": 12,
+          "pp": 64,
+          "damageClass": "status",
+          "effect": "Makes the target fall"
+        },
+        {
+          "name": "close-combat",
+          "power": 120,
+          "accuracy": 100,
+          "pp": 5,
+          "type": "fighting",
+          "damageClass": "physical",
+          "effect": "Lowers the user’s Defense and Special Defense by one stage after inflicting damage."
+        },
+        {
+          "name": "bulldoze",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 20,
+          "type": "ground",
+          "damageClass": "physical",
+          "effect": "Has a chance to lower the target’s Speed by one stage."
+        },
+        {
+          "name": "stomping-tantrum",
+          "power": 75,
+          "accuracy": 100,
+          "pp": 10,
+          "type": "ground",
+          "damageClass": "physical",
+          "effect": "Has double power if the user’s last move failed."
+        },
+        {
+          "name": "ancient-power",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 5,
+          "type": "rock",
+          "damageClass": "special",
+          "effect": "Has a chance to raise all of the user’s stats by one stage."
+        },
+        {
+          "name": "autotomize",
+          "power": null,
+          "accuracy": null,
+          "pp": 15,
+          "type": "steel",
+          "damageClass": "status",
+          "effect": "Raises the user’s Speed by two stages and halves the user’s weight."
+        },
+        {
+          "name": "breaking-swipe",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 15,
+          "type": "dragon",
+          "damageClass": "physical",
+          "effect": "Lowers the target’s Attack by one stage after inflicting damage."
+        }
+      ],
       "evolvesFrom": null,
-      "edited": "2026-08-17T18:04:11.387Z"
+      "edited": "2026-08-17T18:18:37.500Z"
     }
   ],
   "deleted": [
