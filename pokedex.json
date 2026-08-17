@@ -252,6 +252,132 @@
       ],
       "evolvesFrom": null,
       "edited": "2026-08-17T07:34:18.928Z"
+    },
+    {
+      "id": "0bb15f99-ea86-4a89-9a14-926497846fea",
+      "dex": 9003,
+      "name": "Monsailer",
+      "slug": "monsailer",
+      "category": "Sea monster Pokémon",
+      "region": "Paldea",
+      "rarity": "mythical",
+      "types": [
+        "water",
+        "dragon"
+      ],
+      "picture": "data:image/webp;base64,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",
+      "moves": [
+        {
+          "name": "toxic",
+          "power": null,
+          "accuracy": 90,
+          "pp": 10,
+          "type": "poison",
+          "damageClass": "status",
+          "effect": "Badly poisons the target, inflicting more damage every turn."
+        },
+        {
+          "name": "Water pulse",
+          "type": "water",
+          "power": 123,
+          "accuracy": 45,
+          "pp": 12,
+          "damageClass": "special",
+          "effect": "Splashes, the target."
+        },
+        {
+          "name": "dragon-pulse",
+          "power": 85,
+          "accuracy": 100,
+          "pp": 10,
+          "type": "dragon",
+          "damageClass": "special",
+          "effect": "Inflicts regular damage with no additional effect."
+        },
+        {
+          "name": "hex",
+          "power": 65,
+          "accuracy": 100,
+          "pp": 10,
+          "type": "ghost",
+          "damageClass": "special",
+          "effect": "Has double power if the target has a major status ailment."
+        },
+        {
+          "name": "aerial-ace",
+          "power": 60,
+          "accuracy": null,
+          "pp": 20,
+          "type": "flying",
+          "damageClass": "physical",
+          "effect": "Never misses."
+        },
+        {
+          "name": "aqua-ring",
+          "power": null,
+          "accuracy": null,
+          "pp": 20,
+          "type": "water",
+          "damageClass": "status",
+          "effect": "Restores 1/16 of the user’s max HP each turn."
+        },
+        {
+          "name": "dream-eater",
+          "power": 100,
+          "accuracy": 100,
+          "pp": 15,
+          "type": "psychic",
+          "damageClass": "special",
+          "effect": "Only works on sleeping Pokémon.  Drains half the damage inflicted to heal the user."
+        },
+        {
+          "name": "bulldoze",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 20,
+          "type": "ground",
+          "damageClass": "physical",
+          "effect": "Has a chance to lower the target’s Speed by one stage."
+        },
+        {
+          "name": "autotomize",
+          "power": null,
+          "accuracy": null,
+          "pp": 15,
+          "type": "steel",
+          "damageClass": "status",
+          "effect": "Raises the user’s Speed by two stages and halves the user’s weight."
+        },
+        {
+          "name": "10-000-000-volt-thunderbolt",
+          "power": 195,
+          "accuracy": null,
+          "pp": 1,
+          "type": "electric",
+          "damageClass": "special",
+          "effect": "Inflicts regular damage with no additional effect."
+        },
+        {
+          "name": "bite",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 25,
+          "type": "dark",
+          "damageClass": "physical",
+          "effect": "Has a chance to make the target flinch."
+        },
+        {
+          "name": "leaf-tornado",
+          "power": 65,
+          "accuracy": 90,
+          "pp": 10,
+          "type": "grass",
+          "damageClass": "special",
+          "effect": "Has a chance to lower the target’s accuracy by one stage."
+        }
+      ],
+      "evolvesFrom": null,
+      "edited": "2026-08-17T13:08:34.769Z"
     }
   ],
   "deleted": [
