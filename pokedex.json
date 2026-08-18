@@ -459,6 +459,23 @@
       ],
       "evolvesFrom": null,
       "edited": "2026-08-17T18:18:37.500Z"
+    },
+    {
+      "id": "c9d20447-27ee-41b6-90d8-670bbd2d235d",
+      "dex": 9005,
+      "name": "Wetmind",
+      "slug": "wetmind",
+      "category": "Psychic water. Pokémon",
+      "region": "Paldea",
+      "rarity": "mythical",
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "picture": "",
+      "moves": [],
+      "evolvesFrom": null,
+      "edited": "2026-08-18T07:26:53.506Z"
     }
   ],
   "deleted": [
