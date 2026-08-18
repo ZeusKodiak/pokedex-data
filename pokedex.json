@@ -476,6 +476,132 @@
       "moves": [],
       "evolvesFrom": null,
       "edited": "2026-08-18T07:26:53.506Z"
+    },
+    {
+      "id": "39d38a7e-9e9d-4790-ac16-eda60c5bbbd9",
+      "dex": 9006,
+      "name": "Pyewet",
+      "slug": "pyewet",
+      "category": "Psychic puddle Pokémon",
+      "region": "Paldea",
+      "rarity": "mythical",
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "picture": "data:image/webp;base64,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",
+      "moves": [
+        {
+          "name": "barrier",
+          "power": null,
+          "accuracy": null,
+          "pp": 20,
+          "type": "psychic",
+          "damageClass": "status",
+          "effect": "Raises the user’s Defense by two stages."
+        },
+        {
+          "name": "hydro-cannon",
+          "power": 150,
+          "accuracy": 90,
+          "pp": 5,
+          "type": "water",
+          "damageClass": "special",
+          "effect": "User foregoes its next turn to recharge."
+        },
+        {
+          "name": "flash-cannon",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 10,
+          "type": "steel",
+          "damageClass": "special",
+          "effect": "Has a chance to lower the target’s Special Defense by one stage."
+        },
+        {
+          "name": "10-000-000-volt-thunderbolt",
+          "power": 195,
+          "accuracy": null,
+          "pp": 1,
+          "type": "electric",
+          "damageClass": "special",
+          "effect": "Inflicts regular damage with no additional effect."
+        },
+        {
+          "name": "Heat boom.",
+          "type": "fire",
+          "power": 300,
+          "accuracy": 100,
+          "pp": 64,
+          "damageClass": "special",
+          "effect": "Blasts the target."
+        },
+        {
+          "name": "rock-tomb",
+          "power": 60,
+          "accuracy": 95,
+          "pp": 15,
+          "type": "rock",
+          "damageClass": "physical",
+          "effect": "Has a chance to lower the target’s Speed by one stage."
+        },
+        {
+          "name": "acrobatics",
+          "power": 55,
+          "accuracy": 100,
+          "pp": 15,
+          "type": "flying",
+          "damageClass": "physical",
+          "effect": "Has double power if the user has no held item."
+        },
+        {
+          "name": "bulldoze",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 20,
+          "type": "ground",
+          "damageClass": "physical",
+          "effect": "Has a chance to lower the target’s Speed by one stage."
+        },
+        {
+          "name": "glitzy-glow",
+          "power": 80,
+          "accuracy": 95,
+          "pp": 15,
+          "type": "psychic",
+          "damageClass": "special",
+          "effect": "Inflicts regular damage with no additional effect."
+        },
+        {
+          "name": "disarming-voice",
+          "power": 40,
+          "accuracy": null,
+          "pp": 15,
+          "type": "fairy",
+          "damageClass": "special",
+          "effect": "Never misses."
+        },
+        {
+          "name": "catastropika",
+          "power": 210,
+          "accuracy": null,
+          "pp": 1,
+          "type": "electric",
+          "damageClass": "physical",
+          "effect": "Inflicts regular damage with no additional effect."
+        },
+        {
+          "name": "belch",
+          "power": 120,
+          "accuracy": 90,
+          "pp": 10,
+          "type": "poison",
+          "damageClass": "special",
+          "effect": "Can only be used after the user has eaten a berry."
+        }
+      ],
+      "evolvesFrom": null,
+      "edited": "2026-08-18T07:41:46.892Z"
     }
   ],
   "deleted": [
