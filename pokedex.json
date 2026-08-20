@@ -602,6 +602,135 @@
       "moves": [],
       "evolvesFrom": null,
       "edited": "2026-08-20T09:10:01.116Z"
+    },
+    {
+      "id": "0fbde177-fd8e-49d4-98db-aa1b28c9894b",
+      "dex": 9008,
+      "name": "SIllison",
+      "slug": "sillison",
+      "category": "Sense Pokémon",
+      "region": "Paldea",
+      "rarity": "mythical",
+      "types": [
+        "psychic",
+        "rock"
+      ],
+      "picture": "data:image/webp;base64,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",
+      "moves": [
+        {
+          "name": "eerie-spell",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 5,
+          "type": "psychic",
+          "damageClass": "special",
+          "effect": "Inflicts regular damage with no additional effect."
+        },
+        {
+          "name": "Boulder, throw",
+          "type": "rock",
+          "power": 300,
+          "accuracy": 100,
+          "pp": 64,
+          "damageClass": "special",
+          "effect": "Hits the target with boulders."
+        },
+        {
+          "name": "10-000-000-volt-thunderbolt",
+          "power": 195,
+          "accuracy": null,
+          "pp": 1,
+          "type": "electric",
+          "damageClass": "special",
+          "effect": "Inflicts regular damage with no additional effect."
+        },
+        {
+          "name": "blaze-kick",
+          "power": 85,
+          "accuracy": 90,
+          "pp": 10,
+          "type": "fire",
+          "damageClass": "physical",
+          "effect": "Has an increased chance for a critical hit and a chance to burn the target."
+        },
+        {
+          "name": "close-combat",
+          "power": 120,
+          "accuracy": 100,
+          "pp": 5,
+          "type": "fighting",
+          "damageClass": "physical",
+          "effect": "Lowers the user’s Defense and Special Defense by one stage after inflicting damage."
+        },
+        {
+          "name": "freezing-glare",
+          "power": 90,
+          "accuracy": 100,
+          "pp": 10,
+          "type": "psychic",
+          "damageClass": "special",
+          "effect": "Inflicts regular damage with no additional effect."
+        },
+        {
+          "name": "bloom-doom--physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 1,
+          "type": "grass",
+          "damageClass": "physical",
+          "effect": "Inflicts regular damage with no additional effect."
+        },
+        {
+          "name": "all-out-pummeling--physical",
+          "power": null,
+          "accuracy": null,
+          "pp": 1,
+          "type": "fighting",
+          "damageClass": "physical",
+          "effect": "Inflicts regular damage with no additional effect."
+        },
+        {
+          "name": "aqua-cutter",
+          "power": 70,
+          "accuracy": 100,
+          "pp": 20,
+          "type": "water",
+          "damageClass": "physical",
+          "effect": ""
+        },
+        {
+          "name": "autotomize",
+          "power": null,
+          "accuracy": null,
+          "pp": 15,
+          "type": "steel",
+          "damageClass": "status",
+          "effect": "Raises the user’s Speed by two stages and halves the user’s weight."
+        },
+        {
+          "name": "comeuppance",
+          "power": 1,
+          "accuracy": 100,
+          "pp": 10,
+          "type": "dark",
+          "damageClass": "physical",
+          "effect": ""
+        },
+        {
+          "name": "clear-smog",
+          "power": 50,
+          "accuracy": null,
+          "pp": 15,
+          "type": "poison",
+          "damageClass": "special",
+          "effect": "Removes all of the target’s stat modifiers."
+        }
+      ],
+      "evolvesFrom": {
+        "name": "lucario",
+        "how": "Stronger claws"
+      },
+      "edited": "2026-08-20T09:24:05.008Z"
     }
   ],
   "deleted": [
