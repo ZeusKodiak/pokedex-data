@@ -587,23 +587,6 @@
       "edited": "2026-08-18T07:41:46.892Z"
     },
     {
-      "id": "65d3b015-b2a6-4749-a826-5014cf85f8a0",
-      "dex": 9007,
-      "name": "Sillizon",
-      "slug": "sillizon",
-      "category": "Sense Pokémon",
-      "region": "Paldea",
-      "rarity": "mythical",
-      "types": [
-        "psychic",
-        "rock"
-      ],
-      "picture": "",
-      "moves": [],
-      "evolvesFrom": null,
-      "edited": "2026-08-20T09:10:01.116Z"
-    },
-    {
       "id": "0fbde177-fd8e-49d4-98db-aa1b28c9894b",
       "dex": 9008,
       "name": "SIllison",
@@ -735,6 +718,7 @@
   ],
   "deleted": [
     "085c845e-6458-466d-91e0-582d46fecc2b",
-    "c9d20447-27ee-41b6-90d8-670bbd2d235d"
+    "c9d20447-27ee-41b6-90d8-670bbd2d235d",
+    "65d3b015-b2a6-4749-a826-5014cf85f8a0"
   ]
 }
