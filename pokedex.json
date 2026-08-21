@@ -718,9 +718,9 @@
     {
       "id": "a535e803-54f4-4911-a18d-d400c1dc945b",
       "dex": 9009,
-      "name": "FirLur",
+      "name": "Firlur",
       "slug": "firlur",
-      "category": "Fire lover. Pokémon",
+      "category": "Fire Lover Pokémon",
       "region": "Paldea",
       "rarity": "mythical",
       "types": [
@@ -802,15 +802,6 @@
           "effect": "Has a chance to paralyze the target."
         },
         {
-          "name": "Strucker.",
-          "type": "dark",
-          "power": null,
-          "accuracy": 100,
-          "pp": 64,
-          "damageClass": "special",
-          "effect": "Strikes the target with darkness."
-        },
-        {
           "name": "hydro-vortex--special",
           "power": null,
           "accuracy": null,
@@ -836,10 +827,19 @@
           "type": "psychic",
           "damageClass": "status",
           "effect": "User faints.  Its replacement has its HP fully restored and any major status effect removed."
+        },
+        {
+          "name": "Strucker",
+          "type": "dark",
+          "power": 213,
+          "accuracy": 100,
+          "pp": 12,
+          "damageClass": "special",
+          "effect": "Strikes the target with darkness"
         }
       ],
       "evolvesFrom": null,
-      "edited": "2026-08-21T08:12:57.182Z"
+      "edited": "2026-08-21T19:25:43.432Z"
     }
   ],
   "deleted": [
