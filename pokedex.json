@@ -852,10 +852,119 @@
       "types": [
         "dragon"
       ],
-      "picture": "",
-      "moves": [],
+      "picture": "data:image/webp;base64,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",
+      "moves": [
+        {
+          "name": "blast-burn",
+          "power": 150,
+          "accuracy": 90,
+          "pp": 5,
+          "type": "fire",
+          "damageClass": "special",
+          "effect": "User foregoes its next turn to recharge."
+        },
+        {
+          "name": "hex",
+          "power": 65,
+          "accuracy": 100,
+          "pp": 10,
+          "type": "ghost",
+          "damageClass": "special",
+          "effect": "Has double power if the target has a major status ailment."
+        },
+        {
+          "name": "dragon-claw",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 15,
+          "type": "dragon",
+          "damageClass": "physical",
+          "effect": "Inflicts regular damage with no additional effect."
+        },
+        {
+          "name": "bite",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 25,
+          "type": "dark",
+          "damageClass": "physical",
+          "effect": "Has a chance to make the target flinch."
+        },
+        {
+          "name": "bone-rush",
+          "power": 25,
+          "accuracy": 90,
+          "pp": 10,
+          "type": "ground",
+          "damageClass": "physical",
+          "effect": "Hits 2-5 times in one turn."
+        },
+        {
+          "name": "Hardericks",
+          "type": "ghost",
+          "power": 300,
+          "accuracy": 100,
+          "pp": 64,
+          "damageClass": "special",
+          "effect": "Shoots the target with a dark blast."
+        },
+        {
+          "name": "bolt-strike",
+          "power": 130,
+          "accuracy": 85,
+          "pp": 5,
+          "type": "electric",
+          "damageClass": "physical",
+          "effect": "Has a chance to paralyze the target."
+        },
+        {
+          "name": "bitter-malice",
+          "power": 75,
+          "accuracy": 100,
+          "pp": 10,
+          "type": "ghost",
+          "damageClass": "special",
+          "effect": ""
+        },
+        {
+          "name": "armor-cannon",
+          "power": 120,
+          "accuracy": 100,
+          "pp": 5,
+          "type": "fire",
+          "damageClass": "special",
+          "effect": ""
+        },
+        {
+          "name": "ancient-power",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 5,
+          "type": "rock",
+          "damageClass": "special",
+          "effect": "Has a chance to raise all of the user’s stats by one stage."
+        },
+        {
+          "name": "barrier",
+          "power": null,
+          "accuracy": null,
+          "pp": 20,
+          "type": "psychic",
+          "damageClass": "status",
+          "effect": "Raises the user’s Defense by two stages."
+        },
+        {
+          "name": "avalanche",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 10,
+          "type": "ice",
+          "damageClass": "physical",
+          "effect": "Inflicts double damage if the user takes damage before attacking this turn."
+        }
+      ],
       "evolvesFrom": null,
-      "edited": "2026-08-22T08:22:29.258Z"
+      "edited": "2026-08-22T08:49:29.606Z"
     }
   ],
   "deleted": [
