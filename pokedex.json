@@ -726,16 +726,6 @@
           "over": []
         },
         {
-          "name": "all-out-pummeling--physical",
-          "power": null,
-          "accuracy": null,
-          "pp": 1,
-          "type": "fighting",
-          "damageClass": "physical",
-          "effect": "Inflicts regular damage with no additional effect",
-          "over": []
-        },
-        {
           "name": "aqua-cutter",
           "power": 70,
           "accuracy": 100,
@@ -774,13 +764,22 @@
           "damageClass": "special",
           "effect": "Removes all of the targets stat modifiers",
           "over": []
+        },
+        {
+          "name": "aura-sphere",
+          "power": 80,
+          "accuracy": null,
+          "pp": 20,
+          "type": "fighting",
+          "damageClass": "special",
+          "effect": "Never misses."
         }
       ],
       "evolvesFrom": {
         "name": "lucario",
         "how": "Stronger claws"
       },
-      "edited": "2026-08-29T14:59:56.774Z"
+      "edited": "2026-08-29T15:59:14.052Z"
     },
     {
       "id": "a535e803-54f4-4911-a18d-d400c1dc945b",
