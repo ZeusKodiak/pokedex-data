@@ -844,9 +844,9 @@
     {
       "id": "abe7619b-d5fb-4e10-a0bb-930adf531e4b",
       "dex": 9010,
-      "name": "Spyailoser.",
+      "name": "Spyailoser",
       "slug": "spyailoser",
-      "category": "monsterous dragon. Pokémon",
+      "category": "Monsterous Dragon Pokémon",
       "region": "Paldea",
       "rarity": "mythical",
       "types": [
@@ -964,7 +964,7 @@
         }
       ],
       "evolvesFrom": null,
-      "edited": "2026-08-22T08:49:29.606Z"
+      "edited": "2026-08-29T14:59:22.151Z"
     }
   ],
   "deleted": [
