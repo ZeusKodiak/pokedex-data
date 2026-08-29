@@ -1093,7 +1093,8 @@
           "pp": 5,
           "type": "psychic",
           "damageClass": "special",
-          "effect": "The target loses 3 PP from the last move it used."
+          "effect": "The target loses 3 PP from the last move it used",
+          "over": []
         },
         {
           "name": "beat-up",
@@ -1102,7 +1103,8 @@
           "pp": 10,
           "type": "dark",
           "damageClass": "physical",
-          "effect": "Hits once for every conscious Pokémon the trainer has."
+          "effect": "Hits once for every conscious Pokémon the trainer has",
+          "over": []
         },
         {
           "name": "bite",
@@ -1111,7 +1113,8 @@
           "pp": 25,
           "type": "dark",
           "damageClass": "physical",
-          "effect": "Has a chance to make the target flinch."
+          "effect": "Has a chance to make the target flinch",
+          "over": []
         },
         {
           "name": "bitter-malice",
@@ -1120,7 +1123,8 @@
           "pp": 10,
           "type": "ghost",
           "damageClass": "special",
-          "effect": ""
+          "effect": "",
+          "over": []
         },
         {
           "name": "clangorous-soul",
@@ -1129,7 +1133,8 @@
           "pp": 5,
           "type": "dragon",
           "damageClass": "status",
-          "effect": "User loses 33% of its Max HP. Raises all of the user’s stats by one stage."
+          "effect": "User loses 33 of its Max HP Raises all of the user's stats by one stage",
+          "over": []
         },
         {
           "name": "aerial-ace",
@@ -1138,7 +1143,8 @@
           "pp": 20,
           "type": "flying",
           "damageClass": "physical",
-          "effect": "Never misses."
+          "effect": "Never misses",
+          "over": []
         },
         {
           "name": "bitter-blade",
@@ -1147,7 +1153,8 @@
           "pp": 10,
           "type": "fire",
           "damageClass": "physical",
-          "effect": ""
+          "effect": "",
+          "over": []
         },
         {
           "name": "hydro-cannon",
@@ -1156,7 +1163,8 @@
           "pp": 5,
           "type": "water",
           "damageClass": "special",
-          "effect": "User foregoes its next turn to recharge."
+          "effect": "User foregoes its next turn to recharge",
+          "over": []
         },
         {
           "name": "aura-wheel",
@@ -1165,7 +1173,8 @@
           "pp": 10,
           "type": "electric",
           "damageClass": "physical",
-          "effect": "Raises the user's Speed by 1 stage. In Full Belly Mode, this move is Electric type. In Hangry Mode, this move is Dark type."
+          "effect": "Raises the user's Speed by 1 stage In Full Belly Mode this move is Electric type In Hangry Mode this move is Dark type",
+          "over": []
         },
         {
           "name": "belch",
@@ -1174,7 +1183,8 @@
           "pp": 10,
           "type": "poison",
           "damageClass": "special",
-          "effect": "Can only be used after the user has eaten a berry."
+          "effect": "Can only be used after the user has eaten a berry",
+          "over": []
         },
         {
           "name": "leaf-tornado",
@@ -1183,7 +1193,8 @@
           "pp": 10,
           "type": "grass",
           "damageClass": "special",
-          "effect": "Has a chance to lower the target’s accuracy by one stage."
+          "effect": "Has a chance to lower the target's accuracy by one stage",
+          "over": []
         }
       ],
       "evolvesFrom": null,
