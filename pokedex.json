@@ -1057,6 +1057,137 @@
       ],
       "evolvesFrom": null,
       "edited": "2026-08-29T15:00:19.734Z"
+    },
+    {
+      "id": "b97572f6-1b84-4ce1-9a64-d0933f3069ec",
+      "dex": 9011,
+      "name": "Sialoscis",
+      "slug": "sialoscis",
+      "category": "Dark Pokémon",
+      "region": "Paldea",
+      "rarity": "mythical",
+      "types": [
+        "dark",
+        "mystery"
+      ],
+      "picture": "data:image/webp;base64,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",
+      "moves": [
+        {
+          "name": "Super Blast",
+          "type": "mystery",
+          "power": 1000000000000000,
+          "accuracy": 200,
+          "pp": 300,
+          "damageClass": "special",
+          "effect": "",
+          "over": [
+            "power",
+            "accuracy",
+            "pp"
+          ]
+        },
+        {
+          "name": "eerie-spell",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 5,
+          "type": "psychic",
+          "damageClass": "special",
+          "effect": "The target loses 3 PP from the last move it used."
+        },
+        {
+          "name": "beat-up",
+          "power": null,
+          "accuracy": 100,
+          "pp": 10,
+          "type": "dark",
+          "damageClass": "physical",
+          "effect": "Hits once for every conscious Pokémon the trainer has."
+        },
+        {
+          "name": "bite",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 25,
+          "type": "dark",
+          "damageClass": "physical",
+          "effect": "Has a chance to make the target flinch."
+        },
+        {
+          "name": "bitter-malice",
+          "power": 75,
+          "accuracy": 100,
+          "pp": 10,
+          "type": "ghost",
+          "damageClass": "special",
+          "effect": ""
+        },
+        {
+          "name": "clangorous-soul",
+          "power": null,
+          "accuracy": 100,
+          "pp": 5,
+          "type": "dragon",
+          "damageClass": "status",
+          "effect": "User loses 33% of its Max HP. Raises all of the user’s stats by one stage."
+        },
+        {
+          "name": "aerial-ace",
+          "power": 60,
+          "accuracy": null,
+          "pp": 20,
+          "type": "flying",
+          "damageClass": "physical",
+          "effect": "Never misses."
+        },
+        {
+          "name": "bitter-blade",
+          "power": 90,
+          "accuracy": 100,
+          "pp": 10,
+          "type": "fire",
+          "damageClass": "physical",
+          "effect": ""
+        },
+        {
+          "name": "hydro-cannon",
+          "power": 150,
+          "accuracy": 90,
+          "pp": 5,
+          "type": "water",
+          "damageClass": "special",
+          "effect": "User foregoes its next turn to recharge."
+        },
+        {
+          "name": "aura-wheel",
+          "power": 110,
+          "accuracy": 100,
+          "pp": 10,
+          "type": "electric",
+          "damageClass": "physical",
+          "effect": "Raises the user's Speed by 1 stage. In Full Belly Mode, this move is Electric type. In Hangry Mode, this move is Dark type."
+        },
+        {
+          "name": "belch",
+          "power": 120,
+          "accuracy": 90,
+          "pp": 10,
+          "type": "poison",
+          "damageClass": "special",
+          "effect": "Can only be used after the user has eaten a berry."
+        },
+        {
+          "name": "leaf-tornado",
+          "power": 65,
+          "accuracy": 90,
+          "pp": 10,
+          "type": "grass",
+          "damageClass": "special",
+          "effect": "Has a chance to lower the target’s accuracy by one stage."
+        }
+      ],
+      "evolvesFrom": null,
+      "edited": "2026-08-29T16:17:36.803Z"
     }
   ],
   "deleted": [
