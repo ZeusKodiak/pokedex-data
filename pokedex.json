@@ -22,7 +22,8 @@
           "pp": 20,
           "type": "psychic",
           "damageClass": "status",
-          "effect": "Raises the user’s Defense and Special Defense by one stage."
+          "effect": "Raises the users Defense and Special Defense by one stage",
+          "over": []
         },
         {
           "name": "bubble-beam",
@@ -31,7 +32,8 @@
           "pp": 20,
           "type": "water",
           "damageClass": "special",
-          "effect": "Has a chance to lower the target’s Speed by one stage."
+          "effect": "Has a chance to lower the targets Speed by one stage",
+          "over": []
         },
         {
           "name": "double-shock",
@@ -40,7 +42,8 @@
           "pp": 5,
           "type": "electric",
           "damageClass": "physical",
-          "effect": ""
+          "effect": "",
+          "over": []
         },
         {
           "name": "air-slash",
@@ -49,7 +52,8 @@
           "pp": 15,
           "type": "flying",
           "damageClass": "special",
-          "effect": "Has a chance to make the target flinch."
+          "effect": "Has a chance to make the target flinch",
+          "over": []
         },
         {
           "name": "Radioactive",
@@ -58,7 +62,8 @@
           "accuracy": 100,
           "pp": 1,
           "damageClass": "special",
-          "effect": "Blasts the target"
+          "effect": "Blasts the target",
+          "over": []
         },
         {
           "name": "aura-sphere",
@@ -67,7 +72,8 @@
           "pp": 20,
           "type": "fighting",
           "damageClass": "special",
-          "effect": "Never misses."
+          "effect": "Never misses",
+          "over": []
         },
         {
           "name": "Metal",
@@ -76,7 +82,8 @@
           "accuracy": 23,
           "pp": 23,
           "damageClass": "physical",
-          "effect": "Crushes the target"
+          "effect": "Crushes the target",
+          "over": []
         },
         {
           "name": "spirit-shackle",
@@ -85,7 +92,8 @@
           "pp": 10,
           "type": "ghost",
           "damageClass": "physical",
-          "effect": "Traps the target."
+          "effect": "Traps the target",
+          "over": []
         },
         {
           "name": "Follow",
@@ -94,7 +102,8 @@
           "accuracy": 25,
           "pp": 64,
           "damageClass": "special",
-          "effect": "Distracts the target"
+          "effect": "Distracts the target",
+          "over": []
         },
         {
           "name": "earthquake",
@@ -103,7 +112,8 @@
           "pp": 10,
           "type": "ground",
           "damageClass": "physical",
-          "effect": "Inflicts regular damage and can hit Dig users."
+          "effect": "Inflicts regular damage and can hit Dig users",
+          "over": []
         },
         {
           "name": "brick-break",
@@ -112,7 +122,8 @@
           "pp": 15,
           "type": "fighting",
           "damageClass": "physical",
-          "effect": "Destroys Reflect and Light Screen."
+          "effect": "Destroys Reflect and Light Screen",
+          "over": []
         },
         {
           "name": "gravity",
@@ -121,7 +132,8 @@
           "pp": 5,
           "type": "psychic",
           "damageClass": "status",
-          "effect": "Disables moves and immunities that involve flying or levitating for five turns."
+          "effect": "Disables moves and immunities that involve flying or levitating for five turns",
+          "over": []
         }
       ],
       "evolvesFrom": null,
@@ -148,7 +160,8 @@
           "pp": 15,
           "type": "fairy",
           "damageClass": "special",
-          "effect": "Has a chance to lower the target’s Special Attack by one stage."
+          "effect": "Has a chance to lower the targets Special Attack by one stage",
+          "over": []
         },
         {
           "name": "Sky strike",
@@ -157,7 +170,8 @@
           "accuracy": 80,
           "pp": 64,
           "damageClass": "physical",
-          "effect": "Slideshes, the target"
+          "effect": "Slideshes the target",
+          "over": []
         },
         {
           "name": "tailwind",
@@ -166,7 +180,8 @@
           "pp": 15,
           "type": "flying",
           "damageClass": "status",
-          "effect": "For three turns, friendly Pokémon have doubled Speed."
+          "effect": "For three turns friendly Pokémon have doubled Speed",
+          "over": []
         },
         {
           "name": "sweet-kiss",
@@ -175,7 +190,8 @@
           "pp": 10,
           "type": "fairy",
           "damageClass": "status",
-          "effect": "Confuses the target."
+          "effect": "Confuses the target",
+          "over": []
         },
         {
           "name": "hypnosis",
@@ -184,7 +200,8 @@
           "pp": 20,
           "type": "psychic",
           "damageClass": "status",
-          "effect": "Puts the target to sleep."
+          "effect": "Puts the target to sleep",
+          "over": []
         },
         {
           "name": "all-out-pummeling--physical",
@@ -193,7 +210,8 @@
           "pp": 1,
           "type": "fighting",
           "damageClass": "physical",
-          "effect": "Inflicts regular damage with no additional effect."
+          "effect": "Inflicts regular damage with no additional effect",
+          "over": []
         },
         {
           "name": "acid-armor",
@@ -202,7 +220,8 @@
           "pp": 20,
           "type": "poison",
           "damageClass": "status",
-          "effect": "Raises the user’s Defense by two stages."
+          "effect": "Raises the users Defense by two stages",
+          "over": []
         },
         {
           "name": "blizzard",
@@ -211,7 +230,8 @@
           "pp": 5,
           "type": "ice",
           "damageClass": "special",
-          "effect": "Has a chance to freeze the target."
+          "effect": "Has a chance to freeze the target",
+          "over": []
         },
         {
           "name": "10-000-000-volt-thunderbolt",
@@ -220,7 +240,8 @@
           "pp": 1,
           "type": "electric",
           "damageClass": "special",
-          "effect": "Inflicts regular damage with no additional effect."
+          "effect": "Inflicts regular damage with no additional effect",
+          "over": []
         },
         {
           "name": "leaf-tornado",
@@ -229,7 +250,8 @@
           "pp": 10,
           "type": "grass",
           "damageClass": "special",
-          "effect": "Has a chance to lower the target’s accuracy by one stage."
+          "effect": "Has a chance to lower the targets accuracy by one stage",
+          "over": []
         },
         {
           "name": "acupressure",
@@ -238,7 +260,8 @@
           "pp": 30,
           "type": "normal",
           "damageClass": "status",
-          "effect": "Raises one of a friendly Pokémon’s stats at random by two stages."
+          "effect": "Raises one of a friendly Pokémons stats at random by two stages",
+          "over": []
         },
         {
           "name": "armor-cannon",
@@ -247,7 +270,8 @@
           "pp": 5,
           "type": "fire",
           "damageClass": "special",
-          "effect": ""
+          "effect": "",
+          "over": []
         }
       ],
       "evolvesFrom": null,
@@ -258,7 +282,7 @@
       "dex": 9003,
       "name": "Monsailer",
       "slug": "monsailer",
-      "category": "Sea monster Pokémon",
+      "category": "Sea Monster Pokémon",
       "region": "Paldea",
       "rarity": "mythical",
       "types": [
@@ -274,7 +298,8 @@
           "pp": 10,
           "type": "poison",
           "damageClass": "status",
-          "effect": "Badly poisons the target, inflicting more damage every turn."
+          "effect": "Badly poisons the target inflicting more damage every turn",
+          "over": []
         },
         {
           "name": "Water pulse",
@@ -283,7 +308,8 @@
           "accuracy": 45,
           "pp": 12,
           "damageClass": "special",
-          "effect": "Splashes, the target."
+          "effect": "Splashes the target",
+          "over": []
         },
         {
           "name": "dragon-pulse",
@@ -292,7 +318,8 @@
           "pp": 10,
           "type": "dragon",
           "damageClass": "special",
-          "effect": "Inflicts regular damage with no additional effect."
+          "effect": "Inflicts regular damage with no additional effect",
+          "over": []
         },
         {
           "name": "hex",
@@ -301,7 +328,8 @@
           "pp": 10,
           "type": "ghost",
           "damageClass": "special",
-          "effect": "Has double power if the target has a major status ailment."
+          "effect": "Has double power if the target has a major status ailment",
+          "over": []
         },
         {
           "name": "aerial-ace",
@@ -310,7 +338,8 @@
           "pp": 20,
           "type": "flying",
           "damageClass": "physical",
-          "effect": "Never misses."
+          "effect": "Never misses",
+          "over": []
         },
         {
           "name": "aqua-ring",
@@ -319,7 +348,8 @@
           "pp": 20,
           "type": "water",
           "damageClass": "status",
-          "effect": "Restores 1/16 of the user’s max HP each turn."
+          "effect": "Restores 1 16 of the users max HP each turn",
+          "over": []
         },
         {
           "name": "dream-eater",
@@ -328,7 +358,8 @@
           "pp": 15,
           "type": "psychic",
           "damageClass": "special",
-          "effect": "Only works on sleeping Pokémon.  Drains half the damage inflicted to heal the user."
+          "effect": "Only works on sleeping Pokémon Drains half the damage inflicted to heal the user",
+          "over": []
         },
         {
           "name": "bulldoze",
@@ -337,7 +368,8 @@
           "pp": 20,
           "type": "ground",
           "damageClass": "physical",
-          "effect": "Has a chance to lower the target’s Speed by one stage."
+          "effect": "Has a chance to lower the targets Speed by one stage",
+          "over": []
         },
         {
           "name": "autotomize",
@@ -346,7 +378,8 @@
           "pp": 15,
           "type": "steel",
           "damageClass": "status",
-          "effect": "Raises the user’s Speed by two stages and halves the user’s weight."
+          "effect": "Raises the users Speed by two stages and halves the users weight",
+          "over": []
         },
         {
           "name": "10-000-000-volt-thunderbolt",
@@ -355,7 +388,8 @@
           "pp": 1,
           "type": "electric",
           "damageClass": "special",
-          "effect": "Inflicts regular damage with no additional effect."
+          "effect": "Inflicts regular damage with no additional effect",
+          "over": []
         },
         {
           "name": "bite",
@@ -364,7 +398,8 @@
           "pp": 25,
           "type": "dark",
           "damageClass": "physical",
-          "effect": "Has a chance to make the target flinch."
+          "effect": "Has a chance to make the target flinch",
+          "over": []
         },
         {
           "name": "leaf-tornado",
@@ -373,7 +408,8 @@
           "pp": 10,
           "type": "grass",
           "damageClass": "special",
-          "effect": "Has a chance to lower the target’s accuracy by one stage."
+          "effect": "Has a chance to lower the targets accuracy by one stage",
+          "over": []
         }
       ],
       "evolvesFrom": null,
@@ -400,7 +436,8 @@
           "accuracy": 12,
           "pp": 64,
           "damageClass": "status",
-          "effect": "Makes the target fall"
+          "effect": "Makes the target fall",
+          "over": []
         },
         {
           "name": "close-combat",
@@ -409,7 +446,8 @@
           "pp": 5,
           "type": "fighting",
           "damageClass": "physical",
-          "effect": "Lowers the user’s Defense and Special Defense by one stage after inflicting damage."
+          "effect": "Lowers the users Defense and Special Defense by one stage after inflicting damage",
+          "over": []
         },
         {
           "name": "bulldoze",
@@ -418,7 +456,8 @@
           "pp": 20,
           "type": "ground",
           "damageClass": "physical",
-          "effect": "Has a chance to lower the target’s Speed by one stage."
+          "effect": "Has a chance to lower the targets Speed by one stage",
+          "over": []
         },
         {
           "name": "stomping-tantrum",
@@ -427,7 +466,8 @@
           "pp": 10,
           "type": "ground",
           "damageClass": "physical",
-          "effect": "Has double power if the user’s last move failed."
+          "effect": "Has double power if the users last move failed",
+          "over": []
         },
         {
           "name": "ancient-power",
@@ -436,7 +476,8 @@
           "pp": 5,
           "type": "rock",
           "damageClass": "special",
-          "effect": "Has a chance to raise all of the user’s stats by one stage."
+          "effect": "Has a chance to raise all of the users stats by one stage",
+          "over": []
         },
         {
           "name": "autotomize",
@@ -445,7 +486,8 @@
           "pp": 15,
           "type": "steel",
           "damageClass": "status",
-          "effect": "Raises the user’s Speed by two stages and halves the user’s weight."
+          "effect": "Raises the users Speed by two stages and halves the users weight",
+          "over": []
         },
         {
           "name": "breaking-swipe",
@@ -454,7 +496,8 @@
           "pp": 15,
           "type": "dragon",
           "damageClass": "physical",
-          "effect": "Lowers the target’s Attack by one stage after inflicting damage."
+          "effect": "Lowers the targets Attack by one stage after inflicting damage",
+          "over": []
         }
       ],
       "evolvesFrom": null,
@@ -465,7 +508,7 @@
       "dex": 9006,
       "name": "Pyewet",
       "slug": "pyewet",
-      "category": "Psychic puddle Pokémon",
+      "category": "Psychic Puddle Pokémon",
       "region": "Paldea",
       "rarity": "mythical",
       "types": [
@@ -481,7 +524,8 @@
           "pp": 20,
           "type": "psychic",
           "damageClass": "status",
-          "effect": "Raises the user’s Defense by two stages."
+          "effect": "Raises the users Defense by two stages",
+          "over": []
         },
         {
           "name": "hydro-cannon",
@@ -490,7 +534,8 @@
           "pp": 5,
           "type": "water",
           "damageClass": "special",
-          "effect": "User foregoes its next turn to recharge."
+          "effect": "User foregoes its next turn to recharge",
+          "over": []
         },
         {
           "name": "flash-cannon",
@@ -499,7 +544,8 @@
           "pp": 10,
           "type": "steel",
           "damageClass": "special",
-          "effect": "Has a chance to lower the target’s Special Defense by one stage."
+          "effect": "Has a chance to lower the targets Special Defense by one stage",
+          "over": []
         },
         {
           "name": "10-000-000-volt-thunderbolt",
@@ -508,16 +554,18 @@
           "pp": 1,
           "type": "electric",
           "damageClass": "special",
-          "effect": "Inflicts regular damage with no additional effect."
+          "effect": "Inflicts regular damage with no additional effect",
+          "over": []
         },
         {
-          "name": "Heat boom.",
+          "name": "Heat boom",
           "type": "fire",
           "power": 300,
           "accuracy": 100,
           "pp": 64,
           "damageClass": "special",
-          "effect": "Blasts the target."
+          "effect": "Blasts the target",
+          "over": []
         },
         {
           "name": "rock-tomb",
@@ -526,7 +574,8 @@
           "pp": 15,
           "type": "rock",
           "damageClass": "physical",
-          "effect": "Has a chance to lower the target’s Speed by one stage."
+          "effect": "Has a chance to lower the targets Speed by one stage",
+          "over": []
         },
         {
           "name": "acrobatics",
@@ -535,7 +584,8 @@
           "pp": 15,
           "type": "flying",
           "damageClass": "physical",
-          "effect": "Has double power if the user has no held item."
+          "effect": "Has double power if the user has no held item",
+          "over": []
         },
         {
           "name": "bulldoze",
@@ -544,7 +594,8 @@
           "pp": 20,
           "type": "ground",
           "damageClass": "physical",
-          "effect": "Has a chance to lower the target’s Speed by one stage."
+          "effect": "Has a chance to lower the targets Speed by one stage",
+          "over": []
         },
         {
           "name": "glitzy-glow",
@@ -553,7 +604,8 @@
           "pp": 15,
           "type": "psychic",
           "damageClass": "special",
-          "effect": "Inflicts regular damage with no additional effect."
+          "effect": "Inflicts regular damage with no additional effect",
+          "over": []
         },
         {
           "name": "disarming-voice",
@@ -562,7 +614,8 @@
           "pp": 15,
           "type": "fairy",
           "damageClass": "special",
-          "effect": "Never misses."
+          "effect": "Never misses",
+          "over": []
         },
         {
           "name": "catastropika",
@@ -571,7 +624,8 @@
           "pp": 1,
           "type": "electric",
           "damageClass": "physical",
-          "effect": "Inflicts regular damage with no additional effect."
+          "effect": "Inflicts regular damage with no additional effect",
+          "over": []
         },
         {
           "name": "belch",
@@ -580,7 +634,8 @@
           "pp": 10,
           "type": "poison",
           "damageClass": "special",
-          "effect": "Can only be used after the user has eaten a berry."
+          "effect": "Can only be used after the user has eaten a berry",
+          "over": []
         }
       ],
       "evolvesFrom": null,
@@ -607,16 +662,18 @@
           "pp": 5,
           "type": "psychic",
           "damageClass": "special",
-          "effect": "Inflicts regular damage with no additional effect."
+          "effect": "Inflicts regular damage with no additional effect",
+          "over": []
         },
         {
-          "name": "Boulder, throw",
+          "name": "Boulder throw",
           "type": "rock",
           "power": 300,
           "accuracy": 100,
           "pp": 64,
           "damageClass": "special",
-          "effect": "Hits the target with boulders."
+          "effect": "Hits the target with boulders",
+          "over": []
         },
         {
           "name": "10-000-000-volt-thunderbolt",
@@ -625,7 +682,8 @@
           "pp": 1,
           "type": "electric",
           "damageClass": "special",
-          "effect": "Inflicts regular damage with no additional effect."
+          "effect": "Inflicts regular damage with no additional effect",
+          "over": []
         },
         {
           "name": "blaze-kick",
@@ -634,7 +692,8 @@
           "pp": 10,
           "type": "fire",
           "damageClass": "physical",
-          "effect": "Has an increased chance for a critical hit and a chance to burn the target."
+          "effect": "Has an increased chance for a critical hit and a chance to burn the target",
+          "over": []
         },
         {
           "name": "close-combat",
@@ -643,7 +702,8 @@
           "pp": 5,
           "type": "fighting",
           "damageClass": "physical",
-          "effect": "Lowers the user’s Defense and Special Defense by one stage after inflicting damage."
+          "effect": "Lowers the users Defense and Special Defense by one stage after inflicting damage",
+          "over": []
         },
         {
           "name": "freezing-glare",
@@ -652,7 +712,8 @@
           "pp": 10,
           "type": "psychic",
           "damageClass": "special",
-          "effect": "Inflicts regular damage with no additional effect."
+          "effect": "Inflicts regular damage with no additional effect",
+          "over": []
         },
         {
           "name": "bloom-doom--physical",
@@ -661,7 +722,8 @@
           "pp": 1,
           "type": "grass",
           "damageClass": "physical",
-          "effect": "Inflicts regular damage with no additional effect."
+          "effect": "Inflicts regular damage with no additional effect",
+          "over": []
         },
         {
           "name": "all-out-pummeling--physical",
@@ -670,7 +732,8 @@
           "pp": 1,
           "type": "fighting",
           "damageClass": "physical",
-          "effect": "Inflicts regular damage with no additional effect."
+          "effect": "Inflicts regular damage with no additional effect",
+          "over": []
         },
         {
           "name": "aqua-cutter",
@@ -679,7 +742,8 @@
           "pp": 20,
           "type": "water",
           "damageClass": "physical",
-          "effect": ""
+          "effect": "",
+          "over": []
         },
         {
           "name": "autotomize",
@@ -688,7 +752,8 @@
           "pp": 15,
           "type": "steel",
           "damageClass": "status",
-          "effect": "Raises the user’s Speed by two stages and halves the user’s weight."
+          "effect": "Raises the users Speed by two stages and halves the users weight",
+          "over": []
         },
         {
           "name": "comeuppance",
@@ -697,7 +762,8 @@
           "pp": 10,
           "type": "dark",
           "damageClass": "physical",
-          "effect": ""
+          "effect": "",
+          "over": []
         },
         {
           "name": "clear-smog",
@@ -706,7 +772,8 @@
           "pp": 15,
           "type": "poison",
           "damageClass": "special",
-          "effect": "Removes all of the target’s stat modifiers."
+          "effect": "Removes all of the targets stat modifiers",
+          "over": []
         }
       ],
       "evolvesFrom": {
@@ -736,7 +803,8 @@
           "pp": 5,
           "type": "fire",
           "damageClass": "special",
-          "effect": "Has a chance to burn the target."
+          "effect": "Has a chance to burn the target",
+          "over": []
         },
         {
           "name": "disarming-voice",
@@ -745,7 +813,8 @@
           "pp": 15,
           "type": "fairy",
           "damageClass": "special",
-          "effect": "Never misses."
+          "effect": "Never misses",
+          "over": []
         },
         {
           "name": "barrier",
@@ -754,7 +823,8 @@
           "pp": 20,
           "type": "psychic",
           "damageClass": "status",
-          "effect": "Raises the user’s Defense by two stages."
+          "effect": "Raises the users Defense by two stages",
+          "over": []
         },
         {
           "name": "freeze-dry",
@@ -763,7 +833,8 @@
           "pp": 20,
           "type": "ice",
           "damageClass": "special",
-          "effect": "Super-effective against Water."
+          "effect": "Super effective against Water",
+          "over": []
         },
         {
           "name": "acrobatics",
@@ -772,7 +843,8 @@
           "pp": 15,
           "type": "flying",
           "damageClass": "physical",
-          "effect": "Has double power if the user has no held item."
+          "effect": "Has double power if the user has no held item",
+          "over": []
         },
         {
           "name": "corkscrew-crash--physical",
@@ -781,7 +853,8 @@
           "pp": 1,
           "type": "steel",
           "damageClass": "physical",
-          "effect": "Inflicts regular damage with no additional effect."
+          "effect": "Inflicts regular damage with no additional effect",
+          "over": []
         },
         {
           "name": "confuse-ray",
@@ -790,7 +863,8 @@
           "pp": 10,
           "type": "ghost",
           "damageClass": "status",
-          "effect": "Confuses the target."
+          "effect": "Confuses the target",
+          "over": []
         },
         {
           "name": "discharge",
@@ -799,7 +873,8 @@
           "pp": 15,
           "type": "electric",
           "damageClass": "special",
-          "effect": "Has a chance to paralyze the target."
+          "effect": "Has a chance to paralyze the target",
+          "over": []
         },
         {
           "name": "hydro-vortex--special",
@@ -808,7 +883,8 @@
           "pp": 1,
           "type": "water",
           "damageClass": "special",
-          "effect": "Inflicts regular damage with no additional effect."
+          "effect": "Inflicts regular damage with no additional effect",
+          "over": []
         },
         {
           "name": "magnetic-flux",
@@ -817,7 +893,8 @@
           "pp": 20,
           "type": "electric",
           "damageClass": "status",
-          "effect": "Raises the Defense and Special Defense of all friendly Pokémon with Plus or Minus by one stage."
+          "effect": "Raises the Defense and Special Defense of all friendly Pokémon with Plus or Minus by one stage",
+          "over": []
         },
         {
           "name": "healing-wish",
@@ -826,7 +903,8 @@
           "pp": 10,
           "type": "psychic",
           "damageClass": "status",
-          "effect": "User faints.  Its replacement has its HP fully restored and any major status effect removed."
+          "effect": "User faints Its replacement has its HP fully restored and any major status effect removed",
+          "over": []
         },
         {
           "name": "Strucker",
@@ -835,7 +913,8 @@
           "accuracy": 100,
           "pp": 12,
           "damageClass": "special",
-          "effect": "Strikes the target with darkness"
+          "effect": "Strikes the target with darkness",
+          "over": []
         }
       ],
       "evolvesFrom": null,
@@ -862,7 +941,8 @@
           "pp": 5,
           "type": "fire",
           "damageClass": "special",
-          "effect": "User foregoes its next turn to recharge."
+          "effect": "User foregoes its next turn to recharge",
+          "over": []
         },
         {
           "name": "hex",
@@ -871,7 +951,8 @@
           "pp": 10,
           "type": "ghost",
           "damageClass": "special",
-          "effect": "Has double power if the target has a major status ailment."
+          "effect": "Has double power if the target has a major status ailment",
+          "over": []
         },
         {
           "name": "dragon-claw",
@@ -880,7 +961,8 @@
           "pp": 15,
           "type": "dragon",
           "damageClass": "physical",
-          "effect": "Inflicts regular damage with no additional effect."
+          "effect": "Inflicts regular damage with no additional effect",
+          "over": []
         },
         {
           "name": "bite",
@@ -889,7 +971,8 @@
           "pp": 25,
           "type": "dark",
           "damageClass": "physical",
-          "effect": "Has a chance to make the target flinch."
+          "effect": "Has a chance to make the target flinch",
+          "over": []
         },
         {
           "name": "bone-rush",
@@ -898,7 +981,8 @@
           "pp": 10,
           "type": "ground",
           "damageClass": "physical",
-          "effect": "Hits 2-5 times in one turn."
+          "effect": "Hits 2 5 times in one turn",
+          "over": []
         },
         {
           "name": "Hardericks",
@@ -907,7 +991,8 @@
           "accuracy": 100,
           "pp": 64,
           "damageClass": "special",
-          "effect": "Shoots the target with a dark blast."
+          "effect": "Shoots the target with a dark blast",
+          "over": []
         },
         {
           "name": "bolt-strike",
@@ -916,7 +1001,8 @@
           "pp": 5,
           "type": "electric",
           "damageClass": "physical",
-          "effect": "Has a chance to paralyze the target."
+          "effect": "Has a chance to paralyze the target",
+          "over": []
         },
         {
           "name": "bitter-malice",
@@ -925,7 +1011,8 @@
           "pp": 10,
           "type": "ghost",
           "damageClass": "special",
-          "effect": ""
+          "effect": "",
+          "over": []
         },
         {
           "name": "armor-cannon",
@@ -934,7 +1021,8 @@
           "pp": 5,
           "type": "fire",
           "damageClass": "special",
-          "effect": ""
+          "effect": "",
+          "over": []
         },
         {
           "name": "ancient-power",
@@ -943,7 +1031,8 @@
           "pp": 5,
           "type": "rock",
           "damageClass": "special",
-          "effect": "Has a chance to raise all of the user’s stats by one stage."
+          "effect": "Has a chance to raise all of the users stats by one stage",
+          "over": []
         },
         {
           "name": "barrier",
@@ -952,7 +1041,8 @@
           "pp": 20,
           "type": "psychic",
           "damageClass": "status",
-          "effect": "Raises the user’s Defense by two stages."
+          "effect": "Raises the users Defense by two stages",
+          "over": []
         },
         {
           "name": "avalanche",
@@ -961,7 +1051,8 @@
           "pp": 10,
           "type": "ice",
           "damageClass": "physical",
-          "effect": "Inflicts double damage if the user takes damage before attacking this turn."
+          "effect": "Inflicts double damage if the user takes damage before attacking this turn",
+          "over": []
         }
       ],
       "evolvesFrom": null,
