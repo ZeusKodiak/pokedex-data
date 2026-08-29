@@ -772,7 +772,8 @@
           "pp": 20,
           "type": "fighting",
           "damageClass": "special",
-          "effect": "Never misses."
+          "effect": "Never misses",
+          "over": []
         }
       ],
       "evolvesFrom": {
