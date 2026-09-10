@@ -22,7 +22,7 @@
           "pp": 20,
           "type": "psychic",
           "damageClass": "status",
-          "effect": "Raises the users Defense and Special Defense by one stage",
+          "effect": "Raises the user's Defense and Special Defense by one stage",
           "over": []
         },
         {
@@ -32,7 +32,7 @@
           "pp": 20,
           "type": "water",
           "damageClass": "special",
-          "effect": "Has a chance to lower the targets Speed by one stage",
+          "effect": "Has a chance to lower the target's Speed by one stage",
           "over": []
         },
         {
@@ -160,7 +160,7 @@
           "pp": 15,
           "type": "fairy",
           "damageClass": "special",
-          "effect": "Has a chance to lower the targets Special Attack by one stage",
+          "effect": "Has a chance to lower the target's Special Attack by one stage",
           "over": []
         },
         {
@@ -220,7 +220,7 @@
           "pp": 20,
           "type": "poison",
           "damageClass": "status",
-          "effect": "Raises the users Defense by two stages",
+          "effect": "Raises the user's Defense by two stages",
           "over": []
         },
         {
@@ -250,7 +250,7 @@
           "pp": 10,
           "type": "grass",
           "damageClass": "special",
-          "effect": "Has a chance to lower the targets accuracy by one stage",
+          "effect": "Has a chance to lower the target's accuracy by one stage",
           "over": []
         },
         {
@@ -260,7 +260,7 @@
           "pp": 30,
           "type": "normal",
           "damageClass": "status",
-          "effect": "Raises one of a friendly Pokémons stats at random by two stages",
+          "effect": "Raises one of a friendly Pokémon's stats at random by two stages",
           "over": []
         },
         {
@@ -348,7 +348,7 @@
           "pp": 20,
           "type": "water",
           "damageClass": "status",
-          "effect": "Restores 1 16 of the users max HP each turn",
+          "effect": "Restores 1 16 of the user's max HP each turn",
           "over": []
         },
         {
@@ -368,7 +368,7 @@
           "pp": 20,
           "type": "ground",
           "damageClass": "physical",
-          "effect": "Has a chance to lower the targets Speed by one stage",
+          "effect": "Has a chance to lower the target's Speed by one stage",
           "over": []
         },
         {
@@ -378,7 +378,7 @@
           "pp": 15,
           "type": "steel",
           "damageClass": "status",
-          "effect": "Raises the users Speed by two stages and halves the users weight",
+          "effect": "Raises the user's Speed by two stages and halves the user's weight",
           "over": []
         },
         {
@@ -408,7 +408,7 @@
           "pp": 10,
           "type": "grass",
           "damageClass": "special",
-          "effect": "Has a chance to lower the targets accuracy by one stage",
+          "effect": "Has a chance to lower the target's accuracy by one stage",
           "over": []
         }
       ],
@@ -446,7 +446,7 @@
           "pp": 5,
           "type": "fighting",
           "damageClass": "physical",
-          "effect": "Lowers the users Defense and Special Defense by one stage after inflicting damage",
+          "effect": "Lowers the user's Defense and Special Defense by one stage after inflicting damage",
           "over": []
         },
         {
@@ -456,7 +456,7 @@
           "pp": 20,
           "type": "ground",
           "damageClass": "physical",
-          "effect": "Has a chance to lower the targets Speed by one stage",
+          "effect": "Has a chance to lower the target's Speed by one stage",
           "over": []
         },
         {
@@ -466,7 +466,7 @@
           "pp": 10,
           "type": "ground",
           "damageClass": "physical",
-          "effect": "Has double power if the users last move failed",
+          "effect": "Has double power if the user's last move failed",
           "over": []
         },
         {
@@ -476,7 +476,7 @@
           "pp": 5,
           "type": "rock",
           "damageClass": "special",
-          "effect": "Has a chance to raise all of the users stats by one stage",
+          "effect": "Has a chance to raise all of the user's stats by one stage",
           "over": []
         },
         {
@@ -486,7 +486,7 @@
           "pp": 15,
           "type": "steel",
           "damageClass": "status",
-          "effect": "Raises the users Speed by two stages and halves the users weight",
+          "effect": "Raises the user's Speed by two stages and halves the user's weight",
           "over": []
         },
         {
@@ -496,7 +496,7 @@
           "pp": 15,
           "type": "dragon",
           "damageClass": "physical",
-          "effect": "Lowers the targets Attack by one stage after inflicting damage",
+          "effect": "Lowers the target's Attack by one stage after inflicting damage",
           "over": []
         }
       ],
@@ -524,7 +524,7 @@
           "pp": 20,
           "type": "psychic",
           "damageClass": "status",
-          "effect": "Raises the users Defense by two stages",
+          "effect": "Raises the user's Defense by two stages",
           "over": []
         },
         {
@@ -544,7 +544,7 @@
           "pp": 10,
           "type": "steel",
           "damageClass": "special",
-          "effect": "Has a chance to lower the targets Special Defense by one stage",
+          "effect": "Has a chance to lower the target's Special Defense by one stage",
           "over": []
         },
         {
@@ -574,7 +574,7 @@
           "pp": 15,
           "type": "rock",
           "damageClass": "physical",
-          "effect": "Has a chance to lower the targets Speed by one stage",
+          "effect": "Has a chance to lower the target's Speed by one stage",
           "over": []
         },
         {
@@ -594,7 +594,7 @@
           "pp": 20,
           "type": "ground",
           "damageClass": "physical",
-          "effect": "Has a chance to lower the targets Speed by one stage",
+          "effect": "Has a chance to lower the target's Speed by one stage",
           "over": []
         },
         {
@@ -823,7 +823,7 @@
           "pp": 20,
           "type": "psychic",
           "damageClass": "status",
-          "effect": "Raises the users Defense by two stages",
+          "effect": "Raises the user's Defense by two stages",
           "over": []
         },
         {
