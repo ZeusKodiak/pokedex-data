@@ -1097,16 +1097,6 @@
           "over": []
         },
         {
-          "name": "beat-up",
-          "power": null,
-          "accuracy": 100,
-          "pp": 10,
-          "type": "dark",
-          "damageClass": "physical",
-          "effect": "Hits once for every conscious Pokémon the trainer has",
-          "over": []
-        },
-        {
           "name": "bite",
           "power": 60,
           "accuracy": 100,
@@ -1195,10 +1185,19 @@
           "damageClass": "special",
           "effect": "Has a chance to lower the target's accuracy by one stage",
           "over": []
+        },
+        {
+          "name": "struggle-bug",
+          "power": 50,
+          "accuracy": 100,
+          "pp": 20,
+          "type": "bug",
+          "damageClass": "special",
+          "effect": "Has a chance to lower the target’s Special Attack by one stage."
         }
       ],
       "evolvesFrom": null,
-      "edited": "2026-08-29T16:57:31.359Z"
+      "edited": "2026-09-12T18:55:29.077Z"
     },
     {
       "id": "fde11649-04c8-4afc-af0f-80a267270c2e",
@@ -1221,7 +1220,8 @@
           "pp": 20,
           "type": "bug",
           "damageClass": "special",
-          "effect": "Prevents the target from fleeing and inflicts damage for 2-5 turns."
+          "effect": "Prevents the target from fleeing and inflicts damage for 2 5 turns",
+          "over": []
         },
         {
           "name": "crabhammer",
@@ -1230,7 +1230,8 @@
           "pp": 10,
           "type": "water",
           "damageClass": "physical",
-          "effect": "Has an increased chance for a critical hit."
+          "effect": "Has an increased chance for a critical hit",
+          "over": []
         },
         {
           "name": "Soul Crush",
@@ -1262,7 +1263,8 @@
           "pp": 10,
           "type": "dragon",
           "damageClass": "physical",
-          "effect": "Has a chance to make the target flinch."
+          "effect": "Has a chance to make the target flinch",
+          "over": []
         },
         {
           "name": "leaf-storm",
@@ -1271,7 +1273,8 @@
           "pp": 5,
           "type": "grass",
           "damageClass": "special",
-          "effect": "Lowers the user’s Special Attack by two stages after inflicting damage."
+          "effect": "Lowers the user's Special Attack by two stages after inflicting damage",
+          "over": []
         },
         {
           "name": "explosion",
@@ -1280,7 +1283,8 @@
           "pp": 5,
           "type": "normal",
           "damageClass": "physical",
-          "effect": "User faints."
+          "effect": "User faints",
+          "over": []
         },
         {
           "name": "aeroblast",
@@ -1289,7 +1293,8 @@
           "pp": 5,
           "type": "flying",
           "damageClass": "special",
-          "effect": "Has an increased chance for a critical hit."
+          "effect": "Has an increased chance for a critical hit",
+          "over": []
         },
         {
           "name": "eruption",
@@ -1298,7 +1303,8 @@
           "pp": 5,
           "type": "fire",
           "damageClass": "special",
-          "effect": "Inflicts more damage when the user has more HP remaining, with a maximum of 150 power."
+          "effect": "Inflicts more damage when the user has more HP remaining with a maximum of 150 power",
+          "over": []
         },
         {
           "name": "eerie-spell",
@@ -1307,7 +1313,8 @@
           "pp": 5,
           "type": "psychic",
           "damageClass": "special",
-          "effect": "The target loses 3 PP from the last move it used."
+          "effect": "The target loses 3 PP from the last move it used",
+          "over": []
         },
         {
           "name": "ancient-power",
@@ -1316,7 +1323,8 @@
           "pp": 5,
           "type": "rock",
           "damageClass": "special",
-          "effect": "Has a chance to raise all of the user’s stats by one stage."
+          "effect": "Has a chance to raise all of the user's stats by one stage",
+          "over": []
         },
         {
           "name": "bolt-strike",
@@ -1325,7 +1333,8 @@
           "pp": 5,
           "type": "electric",
           "damageClass": "physical",
-          "effect": "Has a chance to paralyze the target."
+          "effect": "Has a chance to paralyze the target",
+          "over": []
         }
       ],
       "evolvesFrom": null,
