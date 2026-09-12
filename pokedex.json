@@ -1199,6 +1199,23 @@
       ],
       "evolvesFrom": null,
       "edited": "2026-08-29T16:57:31.359Z"
+    },
+    {
+      "id": "fde11649-04c8-4afc-af0f-80a267270c2e",
+      "dex": 9012,
+      "name": "Grak",
+      "slug": "grak",
+      "category": "Fvbiiiiiiiiifvgbegvntyd Pokémon",
+      "region": "Paldea",
+      "rarity": "mythical",
+      "types": [
+        "mystery",
+        "dragon"
+      ],
+      "picture": "",
+      "moves": [],
+      "evolvesFrom": null,
+      "edited": "2026-09-12T09:52:10.596Z"
     }
   ],
   "deleted": [
