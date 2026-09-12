@@ -1205,17 +1205,131 @@
       "dex": 9012,
       "name": "Grak",
       "slug": "grak",
-      "category": "Fvbiiiiiiiiifvgbegvntyd Pokémon",
+      "category": "Bite Dragon Pokémon",
       "region": "Paldea",
       "rarity": "mythical",
       "types": [
         "mystery",
         "dragon"
       ],
-      "picture": "",
-      "moves": [],
+      "picture": "data:image/webp;base64,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",
+      "moves": [
+        {
+          "name": "infestation",
+          "power": 20,
+          "accuracy": 100,
+          "pp": 20,
+          "type": "bug",
+          "damageClass": "special",
+          "effect": "Prevents the target from fleeing and inflicts damage for 2-5 turns."
+        },
+        {
+          "name": "crabhammer",
+          "power": 100,
+          "accuracy": 90,
+          "pp": 10,
+          "type": "water",
+          "damageClass": "physical",
+          "effect": "Has an increased chance for a critical hit."
+        },
+        {
+          "name": "Soul Crush",
+          "type": "mystery",
+          "power": 1000000000000000,
+          "accuracy": 200,
+          "pp": 10,
+          "damageClass": "special",
+          "effect": "",
+          "over": [
+            "power",
+            "accuracy"
+          ]
+        },
+        {
+          "name": "Punch",
+          "type": "fighting",
+          "power": 1,
+          "accuracy": 1,
+          "pp": 1,
+          "damageClass": "physical",
+          "effect": "",
+          "over": []
+        },
+        {
+          "name": "dragon-rush",
+          "power": 100,
+          "accuracy": 75,
+          "pp": 10,
+          "type": "dragon",
+          "damageClass": "physical",
+          "effect": "Has a chance to make the target flinch."
+        },
+        {
+          "name": "leaf-storm",
+          "power": 130,
+          "accuracy": 90,
+          "pp": 5,
+          "type": "grass",
+          "damageClass": "special",
+          "effect": "Lowers the user’s Special Attack by two stages after inflicting damage."
+        },
+        {
+          "name": "explosion",
+          "power": 250,
+          "accuracy": 100,
+          "pp": 5,
+          "type": "normal",
+          "damageClass": "physical",
+          "effect": "User faints."
+        },
+        {
+          "name": "aeroblast",
+          "power": 100,
+          "accuracy": 95,
+          "pp": 5,
+          "type": "flying",
+          "damageClass": "special",
+          "effect": "Has an increased chance for a critical hit."
+        },
+        {
+          "name": "eruption",
+          "power": 150,
+          "accuracy": 100,
+          "pp": 5,
+          "type": "fire",
+          "damageClass": "special",
+          "effect": "Inflicts more damage when the user has more HP remaining, with a maximum of 150 power."
+        },
+        {
+          "name": "eerie-spell",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 5,
+          "type": "psychic",
+          "damageClass": "special",
+          "effect": "The target loses 3 PP from the last move it used."
+        },
+        {
+          "name": "ancient-power",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 5,
+          "type": "rock",
+          "damageClass": "special",
+          "effect": "Has a chance to raise all of the user’s stats by one stage."
+        },
+        {
+          "name": "bolt-strike",
+          "power": 130,
+          "accuracy": 85,
+          "pp": 5,
+          "type": "electric",
+          "damageClass": "physical",
+          "effect": "Has a chance to paralyze the target."
+        }
+      ],
       "evolvesFrom": null,
-      "edited": "2026-09-12T09:52:10.596Z"
+      "edited": "2026-09-12T18:54:02.428Z"
     }
   ],
   "deleted": [
