@@ -1193,7 +1193,8 @@
           "pp": 20,
           "type": "bug",
           "damageClass": "special",
-          "effect": "Has a chance to lower the target’s Special Attack by one stage."
+          "effect": "Has a chance to lower the target's Special Attack by one stage",
+          "over": []
         }
       ],
       "evolvesFrom": null,
